@@ -73,3 +73,5 @@ Derived/
 *.xcuserdata
 *.xccheckout
 *.xcscmblueprint
+*.pbxproj
+*.xcscheme
