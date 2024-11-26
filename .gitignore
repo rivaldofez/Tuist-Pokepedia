@@ -60,3 +60,16 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# Tuist Generated Files
+/.build/
+/Generated/
+/tuist/
+Derived/
+
+# Xcode project files
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.xccheckout
+*.xcscmblueprint
